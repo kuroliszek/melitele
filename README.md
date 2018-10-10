@@ -1,1 +1,1 @@
-# melitele
+This is a from-the-scratch project that is using meteo.pl API engine, and display it in the browser in some fancy way. Of course, "fancy" is a future. For now, "displaying" is all there is, to be honest.
